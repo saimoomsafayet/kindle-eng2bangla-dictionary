@@ -10,3 +10,11 @@ The main target of this repository is to maintain the English to Bangla dictiona
  - Transfer or move this dictionary file to your kindle and put in this folder- **documents/dictionaries**
  - Now go to **Menu>Settings >Device Options >Language and Dictionaries**, and then press **Dictionaries**.
  - Select 'English to Bangla Dictionary by Akash'
+
+
+Now start using it! 
+
+Here is a demo: 
+
+![Kindle English to Bangla Dictionary](https://i.imgur.com/6oonuUE.jpg)
+
